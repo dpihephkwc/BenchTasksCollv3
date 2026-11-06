@@ -1,0 +1,149 @@
+{
+  "tasks": [
+    {
+      "branch": "fan-dev",
+      "task": "loyalty-program",
+      "ready": false
+    },
+    {
+      "branch": "fan-dev",
+      "task": "discount-calculator",
+      "ready": false
+    },
+    {
+      "branch": "gyy",
+      "task": "tag-manager",
+      "ready": true
+    },
+    {
+      "branch": "gyy",
+      "task": "sitemap-generator",
+      "ready": false
+    },
+    {
+      "branch": "gyy",
+      "task": "robots-handler",
+      "ready": true
+    },
+    {
+      "branch": "haoze",
+      "task": "media-organizer",
+      "ready": true
+    },
+    {
+      "branch": "haoze",
+      "task": "streaming-service",
+      "ready": false
+    },
+    {
+      "branch": "jl_dev",
+      "task": "customer-feedback-processor",
+      "ready": false
+    },
+    {
+      "branch": "jl_dev",
+      "task": "inventory-management",
+      "ready": false
+    },
+    {
+      "branch": "junteng_dev",
+      "task": "customer-portal",
+      "ready": false
+    },
+    {
+      "branch": "junteng_dev",
+      "task": "help-desk",
+      "ready": false
+    },
+    {
+      "branch": "junxian_dev",
+      "task": "currency-converter",
+      "ready": true
+    },
+    {
+      "branch": "junxian_dev",
+      "task": "social-connector",
+      "ready": true
+    },
+    {
+      "branch": "lueyang-dev",
+      "task": "territory-manager",
+      "ready": false
+    },
+    {
+      "branch": "lueyang-dev",
+      "task": "client-portal",
+      "ready": true
+    },
+    {
+      "branch": "lv",
+      "task": "survey-builder",
+      "ready": false
+    },
+    {
+      "branch": "lv",
+      "task": "analytics-dashboard",
+      "ready": false
+    },
+    {
+      "branch": "lv",
+      "task": "insights-engine",
+      "ready": true
+    },
+    {
+      "branch": "ruige",
+      "task": "web-crawler",
+      "ready": false
+    },
+    {
+      "branch": "ruige",
+      "task": "log-analyzer",
+      "ready": false
+    },
+    {
+      "branch": "wenshuo-dev",
+      "task": "cache-optimizer",
+      "ready": false
+    },
+    {
+      "branch": "wenshuo-dev",
+      "task": "scheduler",
+      "ready": false
+    },
+    {
+      "branch": "xiaochen_dev",
+      "task": "status-checker",
+      "ready": false
+    },
+    {
+      "branch": "xiaochen_dev",
+      "task": "health-monitor",
+      "ready": true
+    },
+    {
+      "branch": "yuxuan-dev",
+      "task": "sync-service",
+      "ready": false
+    },
+    {
+      "branch": "yuzhen-dev",
+      "task": "audit-logger",
+      "ready": true
+    },
+    {
+      "branch": "yuzhen-dev",
+      "task": "resource-monitor",
+      "ready": true
+    },
+    {
+      "branch": "zhaochen",
+      "task": "certificate-manager",
+      "ready": false
+    },
+    {
+      "branch": "zhaochen",
+      "task": "storage-manager",
+      "ready": false
+    }
+  ]
+}
